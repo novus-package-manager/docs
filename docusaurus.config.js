@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 module.exports = {
   title: 'Novus',
   tagline: 'Manage apps like a pro',
-  url: 'https://docs.novuspkg.com',
+  url: 'https://novuspkg.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
