@@ -4,32 +4,38 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Novus in less than 5 minutes**.
 
-## Getting Started
+## What is Novus
 
-Get started by **creating a new site**.
+Novus is an extremely fast package manager for Windows built using Rust.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+## Why Novus
 
-## Generate a new site
+### Swift
 
-Generate a new Docusaurus site using the **classic template**:
+Unlike any other package manager, Novus uses multithreaded downloads making the download speeds 8 times faster.
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+### Efficient
 
-## Start your site
+Apart from being extremely fast, Novus also installs and uninstalls packages concurrently, making it as efficient as possible.
 
-Run the development server:
+### Authentic
 
-```shell
-cd my-website
+Not only are all of Novus’s packages are monitored regularly, but all of them are always up to date and trusted by the community.
 
-npx docusaurus start
-```
+## Features
 
-Your site starts at `http://localhost:3000`.
+Unlike most package managers, Novus can do much more than just installing and uninstalling applications.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+- Install
+- Uninstall
+- Update
+- List
+- Search
+- Clean
+- Quit
+- Forcequit
+- Info
+
+Run **novus -h** for a detailed description of each command.

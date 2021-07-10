@@ -18,7 +18,7 @@ novus list
 
 ## Alias
 
-The letter `i` can be used as a alternative shortcut to `install`.
+The letter **i** can be used as an alternative shortcut to **install**.
 
 Example:
 

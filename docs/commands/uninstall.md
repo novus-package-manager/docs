@@ -18,7 +18,7 @@ novus list --installed
 
 ## Alias
 
-The letter `u` can be used as a alternative shortcut to `uninstall`.
+The letter **u** can be used as an alternative shortcut to **uninstall**.
 
 Example:
 
