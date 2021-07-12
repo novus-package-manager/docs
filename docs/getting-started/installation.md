@@ -15,11 +15,11 @@ The official installer for novus can be found [here](https://github.com/novus-pa
 Check out the [Github Page](https://github.com/novus-package-manager/novus/releases)
 
 After downloading the installer, follow the simple installation prompts.
-
+<!-- 
 ## Powershell Installation
 
 Open a powershell terminal and type the following command to install novus.
 
 ```bash
 some command here
-```
+``` -->
