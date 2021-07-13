@@ -10,16 +10,12 @@ This can be done using the official installer or via powershell.
 
 ## Official Installer
 
-The official installer for novus can be found [here](https://github.com/novus-package-manager/novus/releases/latest).
+Download the official installer for novus [here](https://github.com/novus-package-manager/novus/releases/download/v1.0.0/Novus.v1.0.0.Setup.exe).
 
-Check out the [Github Page](https://github.com/novus-package-manager/novus/releases)
+Check out the [Github Page](https://github.com/novus-package-manager/novus/releases) for more releases.
 
-After downloading the installer, follow the simple installation prompts.
-<!-- 
-## Powershell Installation
+After downloading the installer, follow the simple installation prompts to setup Novus.
 
-Open a powershell terminal and type the following command to install novus.
+Open a terminal and type `novus` to ensure that it has installed.
 
-```bash
-some command here
-``` -->
+Take a look at the list of commands by running `novus list`.
