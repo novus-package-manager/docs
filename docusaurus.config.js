@@ -18,6 +18,8 @@ module.exports = {
       logo: {
         alt: 'Novus Logo',
         src: 'img/logo.png',
+        href: 'http://novuspkg.com/',
+        target: '_self',
       },
       items: [
         {
