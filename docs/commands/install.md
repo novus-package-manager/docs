@@ -40,16 +40,16 @@ novus i brave@1.25.66
 
 ## Flags
 
-### verbose
+### portable
 
-Displays verbose during installation.
+Installs a portable version of the package if it exists.
 
-Alias: -v
+Alias: -p
 
 Example
 
 ```bash
-novus install brave --verbose
+novus install atom --portable
 ```
 
 ### no-color
@@ -74,4 +74,16 @@ Example
 
 ```bash
 novus install brave --no-progress
+```
+
+### multithreaded
+
+Enables multithreaded download for faster installation.
+
+Alias: -m
+
+Example
+
+```bash
+novus install brave --multithreaded
 ```

@@ -28,16 +28,16 @@ novus u brave
 
 ## Flags
 
-### verbose
+### portable
 
-Displays verbose during uninstallation.
+Uninstalls a portable version of the package if it exists.
 
-Alias: -v
+Alias: -p
 
 Example
 
 ```bash
-novus uninstall brave --verbose
+novus uninstall atom --portable
 ```
 
 ### no-color
@@ -50,16 +50,4 @@ Example
 
 ```bash
 novus uninstall brave --no-color
-```
-
-### no-progress
-
-Disables progress bar during uninstallation.
-
-Alias: -np
-
-Example
-
-```bash
-novus uninstall brave --no-progress
 ```

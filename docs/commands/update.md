@@ -28,16 +28,16 @@ novus upgrade brave
 
 ## Flags
 
-### verbose
+### portable
 
-Displays verbose while updating.
+Updates a portable version of the package if it exists.
 
-Alias: -v
+Alias: -p
 
 Example
 
 ```bash
-novus update brave --verbose
+novus update atom --portable
 ```
 
 ### no-color
@@ -62,4 +62,16 @@ Example
 
 ```bash
 novus update brave --no-progress
+```
+
+### multithreaded
+
+Enables multithreaded download for faster downloads.
+
+Alias: -m
+
+Example
+
+```bash
+novus update brave --multithreaded
 ```
